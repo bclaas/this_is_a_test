@@ -9,3 +9,7 @@ import numpy as np
 import pandas as pd
 
 print('This is a test')
+
+
+my_list=np.ones(5)
+print(my_list)
