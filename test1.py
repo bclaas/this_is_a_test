@@ -30,3 +30,4 @@ Contributors:
 '''
 
 print('Hello, World!')
+print("If you're reading this, you're getting the hang of Git!")
